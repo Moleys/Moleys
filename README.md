@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://agwinao.web.app](https://agwinao.web.app)
 
-- 💬 Ask me about **C#, Python,JavaScript**
+- 💬 Ask me about **C#, Python, JavaScript**
 
 - 📫 How to reach me **agwinao@gmail.com**
 

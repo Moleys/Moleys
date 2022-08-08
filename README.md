@@ -1,17 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moleys</h1>
-<h3 align="center">I'm a cage, in search of a bird</h3>
-
-- 🌱 I’m currently learning **Nim**
-
-- 📝 I regularly write articles on [https://agwinao.web.app](https://agwinao.web.app)
-
-- 💬 Ask me about **C#, Python, JavaScript**
-
-- 📫 How to reach me **agwinao@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/agwinao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agwinao" height="30" width="40" /></a>
 <a href="https://discord.gg/Agwinao#7083" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Agwinao#7083" height="30" width="40" /></a>
 </p>
 

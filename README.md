@@ -4,5 +4,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moleys&show_icons=true&locale=en" alt="moleys" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moleys&" alt="moleys" /></p>
 
